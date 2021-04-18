@@ -16,14 +16,13 @@
 
 
 ## Software Development Methodologies.
-  ## Waterfall methodology
+  ### Waterfall methodology
   Waterfall Model methodology which is also known as Liner Sequential Life Cycle Model. Waterfall Model followed in the sequential order, and so project development team only moves to next phase of development or testing if the previous step completed successfully.
 
-
-  ## Agile methodology.
+  ## #Agile methodology.
   Agile methodology is a practice that helps continuous iteration of development and testing in the software development process. In this model, development and testing activities are concurrent, unlike the Waterfall model. This process allows more communication between customers, developers, managers, and testers.
   
   
- ## Microsoft Project Software.
+## Microsoft Project Software.
    Microsoft Project (MSP) is a project management software made for project management so as to control projects. Depending on the plan.
    In this Project, Microsoft Project planner was used to plan projects, assign tasks, manage resources, and make reports.
