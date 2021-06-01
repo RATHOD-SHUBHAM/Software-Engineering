@@ -22,14 +22,14 @@
   - Final decision: The final aspect of a feasibility study is the recommended course of action—in other words, whether the project should proceed or not.
 
 
-----------------------------------------------------------------​--------------------------------​--------------------------------​--------------------------
+----------------------------------------------------------------​--------------------------------​--------------------------------​------
 
 
 ## Cocomo (Constructive Cost Model).
 
   Cocomo is a regression model based on LOC, i.e number of Lines of Code. It is a procedural cost estimate model for software projects and often used as a process of reliably predicting the various parameters associated with making a project such as size, effort, cost, time and quality.
 
---------------------------------​--------------------------------​--------------------------------​--------------------------------​-------------------------
+--------------------------------​--------------------------------​--------------------------------​--------------------------------​-------
 
 ## Software Development Methodologies:
 
@@ -41,7 +41,7 @@
 
   - Agile methodology is a practice that helps continuous iteration of development and testing in the software development process. In this model, development and testing activities are concurrent, unlike the Waterfall model. This process allows more communication between customers, developers, managers, and testers.
 
-​--------------------------------​--------------------------------​--------------------------------​--------------------------------​------------------------
+​--------------------------------​--------------------------------​--------------------------------​--------------------------------​--------
 
 ## Microsoft Project Software.
 
